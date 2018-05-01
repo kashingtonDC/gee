@@ -15,3 +15,8 @@
 
 `pip install earthengine-api`
 
+Now open a terminal and `cd` to this directory and run
+
+`jupyter notebook`
+
+Click on the motebook and execute the cells
