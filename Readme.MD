@@ -15,6 +15,11 @@
 
 `pip install earthengine-api`
 
+Test the install: 
+`python -c "import ee; ee.Initialize()"`
+
+Input your earth engine credentials (the ones you used to register the account). If this works everything is set up correctly
+
 Now open a terminal and `cd` to this directory and run
 
 `jupyter notebook`
