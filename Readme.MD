@@ -25,3 +25,6 @@ Now open a terminal and `cd` to this directory and run
 `jupyter notebook`
 
 Click on the motebook and execute the cells
+
+# Credit
+to the ee community, particularly  [Tyler Erickson](http://https://github.com/tylere) and [Ate Poortinga](http://mygeoblog.org). Some of this content is directly from tutorials they have posted
